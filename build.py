@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Construit les deux versions du jeu à partir de source/blocs.src.html
    - www/index.html        : version pour les stores (SANS menu caché, SANS photo intégrée)
-   - blocs-perso.html : version personnelle (menu caché code 1140 + photo de fond)
+   - blocs-perso.html : version personnelle (menu caché code  + photo de fond)
 Usage : python3 build.py
 """
 import re,os
